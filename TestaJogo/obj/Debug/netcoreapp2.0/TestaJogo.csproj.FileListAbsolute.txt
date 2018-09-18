@@ -1,0 +1,17 @@
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\TestaJogo.deps.json
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\TestaJogo.runtimeconfig.json
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\TestaJogo.runtimeconfig.dev.json
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\TestaJogo.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\TestaJogo.pdb
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\Loteria.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\bin\Debug\netcoreapp2.0\Loteria.pdb
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.csprojAssemblyReference.cache
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.csproj.CoreCompileInputs.cache
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.AssemblyInfoInputs.cache
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.AssemblyInfo.cs
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.csproj.CopyComplete
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.dll
+C:\Users\Suporte 7\source\repos\Loteria\TestaJogo\obj\Debug\netcoreapp2.0\TestaJogo.pdb
