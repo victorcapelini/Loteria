@@ -9,6 +9,8 @@ namespace Loteria.Modal
     {
         IJogo tipoAposta;
         IList<int> palpites;
+        public int NumeroDeAcertos { get; private set; }
+        public IList<int> Palpites { get => palpites; set => palpites = value; }
 
         public Aposta(IJogo tipoAposta)
         {
@@ -17,12 +19,26 @@ namespace Loteria.Modal
 
         public void GeraPalpiteAleatorio()
         {
-            palpites = tipoAposta.GeraJogoAleatorio();
+            Palpites = tipoAposta.GeraJogoAleatorio();
         }
 
         public void FazAposta(IList<int> numeros)
         {
-            palpites = numeros;
+            Palpites = numeros;
+        }
+
+        public void checarAcertos()
+        {
+            NumeroDeAcertos = 0;
+            var resultado = tipoAposta.GetResultado();
+
+            foreach (var num in resultado)
+            {
+                if (Palpites.Contains(num))
+                {
+                    NumeroDeAcertos++;
+                }
+            }
         }
     }
 }

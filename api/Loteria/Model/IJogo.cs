@@ -8,7 +8,7 @@ namespace Loteria.Modal
     public interface IJogo
     {
         IList<int> GeraJogoAleatorio();
-        IList<int> GeraResultado();
+        IList<int> GetResultado();
 
     }
 }

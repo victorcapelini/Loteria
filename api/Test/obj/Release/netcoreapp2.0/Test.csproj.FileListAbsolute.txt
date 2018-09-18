@@ -12,3 +12,17 @@ C:\Users\Suporte 7\source\repos\Loteria\Test\obj\Release\netcoreapp2.0\Test.Asse
 C:\Users\Suporte 7\source\repos\Loteria\Test\obj\Release\netcoreapp2.0\Test.csproj.CopyComplete
 C:\Users\Suporte 7\source\repos\Loteria\Test\obj\Release\netcoreapp2.0\Test.dll
 C:\Users\Suporte 7\source\repos\Loteria\Test\obj\Release\netcoreapp2.0\Test.pdb
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.csprojAssemblyReference.cache
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.dll
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.pdb
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Test.deps.json
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Test.dll
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Test.pdb
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Loteria.dll
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\bin\Release\netcoreapp2.0\Loteria.pdb
+C:\Users\Suporte 7\Desktop\Loteria\api\Test\obj\Release\netcoreapp2.0\Test.csproj.CopyComplete

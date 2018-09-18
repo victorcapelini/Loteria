@@ -13256,11 +13256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Loteria\\Loteria.csproj",
+      "projectUniqueName": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Loteria\\Loteria.csproj",
       "projectName": "Loteria",
-      "projectPath": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Loteria\\Loteria.csproj",
+      "projectPath": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Loteria\\Loteria.csproj",
       "packagesPath": "C:\\Users\\Suporte 7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Loteria\\obj\\",
+      "outputPath": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Loteria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13275,11 +13275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Suporte 7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13299,8 +13299,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Loteria\\Loteria.csproj": {
-              "projectPath": "C:\\Users\\Suporte 7\\Documents\\Visual Studio 2017\\Loteria\\Loteria\\Loteria.csproj"
+            "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Loteria\\Loteria.csproj": {
+              "projectPath": "C:\\Users\\Suporte 7\\Desktop\\Loteria\\api\\Loteria\\Loteria.csproj"
             }
           }
         }

@@ -12,21 +12,12 @@ namespace Loteria.Modal
         private int numPossiveisPalpites;
         private IList<int> Resultado { get; }
 
-        public int NumPalpites
-        {
-            get { return numPalpites; }
-            set { numPalpites = 6; }
-        }
-
-        public int NumPossiveisPalpites
-        {
-            get { return numPossiveisPalpites; }
-            set { numPossiveisPalpites = 60; }
-        }
 
         public Sena()
         {
-            Resultado = GeraResultado();
+            numPossiveisPalpites = 60;
+            numPalpites = 6;
+            Resultado = GeraSeisNumerosSena();
         }
 
 
@@ -35,15 +26,15 @@ namespace Loteria.Modal
             return GeraSeisNumerosSena();
         }
 
-        public IList<int> GeraResultado()
+        public IList<int> GetResultado()
         {
-            return GeraSeisNumerosSena();
+            return Resultado;
         }
 
         private IList<int> GeraSeisNumerosSena()
         {
             var rnd = new Random();
-            var randomNumbers = Enumerable.Range(1, NumPossiveisPalpites).OrderBy(x => rnd.Next()).Take(NumPalpites).ToList();
+            var randomNumbers = Enumerable.Range(1, numPossiveisPalpites).OrderBy(x => rnd.Next()).Take(numPalpites).ToList();
             randomNumbers.Sort();
 
             return randomNumbers;
