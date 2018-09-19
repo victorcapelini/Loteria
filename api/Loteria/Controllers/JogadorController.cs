@@ -14,24 +14,28 @@ namespace Loteria.Controllers
     [Route("api/Jogador")]
     public class JogadorController : Controller
     {
-        Jogadores jogadores = new Jogadores();
-       
+        static Jogadores jogadores = new Jogadores();
+
         // GET: api/Jogador
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            this.jogadores.AddJogador(new Jogador("Victor"));
-            this.jogadores.AddJogador(new Jogador("Jessica"));
-            return new string[] { jogadores.GetJogadorPorPosicao(0).Nome };
+            return new string[] { jogadores.GetTodosJogadores() };
         }
 
         // GET: api/Jogador/5
         [HttpGet("{id}", Name = "Get")]
         public string Get(int id)
         {
-            this.jogadores.AddJogador(new Jogador("Jose"));
-            var nome = jogadores.GetJogadorPorPosicao(id).Nome;
-            return nome;
+            try
+            {
+                var nome = jogadores.GetJogadorPorPosicao(id).Nome;
+                return nome;
+            }
+            catch (ArgumentOutOfRangeException e)
+            {
+                return "A posicao nao possui jogador";
+            }
         }
 
         // POST: api/Jogador
@@ -39,19 +43,8 @@ namespace Loteria.Controllers
         public void Post(string value)
         {
             Jogador jogador = new Jogador(value);
-            this.jogadores.AddJogador(jogador);
+            jogadores.AddJogador(jogador);
         }
 
-        // PUT: api/Jogador/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

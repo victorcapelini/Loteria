@@ -1,8 +1,7 @@
 ﻿using Loteria.Modal;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Loteria.Apoio
 {
@@ -33,7 +32,21 @@ namespace Loteria.Apoio
 
         public Jogador GetJogadorPorPosicao(int posicao)
         {
-            return jogadores[posicao];
+            try
+            {
+                return jogadores[posicao];
+            }catch(ArgumentOutOfRangeException e)
+            {
+                throw new ArgumentOutOfRangeException("A posicao nao contem jogador!");
+            }
         }
+
+        public string GetTodosJogadores()
+        {
+            var json = JsonConvert.SerializeObject(jogadores);
+            json.Replace(@"\", "");
+            return json;
+        }
+
     }
 }

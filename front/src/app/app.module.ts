@@ -1,18 +1,21 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { HttpClientModule  } from "@angular/common/http";
 
 import { AppComponent } from './app.component';
-import { JogoComponent } from './jogo/jogo.component';
+import { LoteriaComponent } from './loteria/loteria.component';
+import { LoteriaService } from './loteria/loteria.service';
 
 @NgModule({
   declarations: [
     AppComponent,
-    JogoComponent
+    LoteriaComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [LoteriaService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

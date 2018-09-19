@@ -20,3 +20,14 @@ C:\Users\Suporte 7\Desktop\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.A
 C:\Users\Suporte 7\Desktop\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.AssemblyInfo.cs
 C:\Users\Suporte 7\Desktop\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.dll
 C:\Users\Suporte 7\Desktop\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.pdb
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\bin\Debug\netcoreapp2.0\Loteria.deps.json
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\bin\Debug\netcoreapp2.0\Loteria.runtimeconfig.json
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\bin\Debug\netcoreapp2.0\Loteria.runtimeconfig.dev.json
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\bin\Debug\netcoreapp2.0\Loteria.dll
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\bin\Debug\netcoreapp2.0\Loteria.pdb
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.csprojAssemblyReference.cache
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.AssemblyInfoInputs.cache
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.AssemblyInfo.cs
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.dll
+C:\Users\CallDesk\Desktop\Prova\Loteria\api\Loteria\obj\Debug\netcoreapp2.0\Loteria.pdb

@@ -14,6 +14,9 @@ namespace Test
             IJogo jogo = new Sena();
 
             jogadores.AddJogador(jogador);
+            jogadores.AddJogador(jogador);
+            jogadores.AddJogador(jogador);
+            jogadores.AddJogador(jogador);
 
             jogador.FazerAposta(jogo, "[1,2,3,4,5,6]");
             jogador.FazerAposta(jogo, "[1,5,10,15,20,25]");
@@ -39,6 +42,7 @@ namespace Test
                 Console.Write(numero + " ");
             }
 
+            Console.WriteLine(jogadores.GetTodosJogadores());
 
             Console.Read();
         }
